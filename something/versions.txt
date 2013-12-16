@@ -2,3 +2,5 @@
 a_package = 1.2.1
 two_coins = 22.1.2
 a_third_world = 4.3.2
+b.c = 3.2
+c.d = 0.1
